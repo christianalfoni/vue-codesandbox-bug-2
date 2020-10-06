@@ -1,0 +1,12 @@
+{
+  "name": "vue-router admin demo",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/pkkj8mpq77",
+  "main": "index.js",
+  "dependencies": {
+    "vue-router": "3.0.1",
+    "vue": "2.5.9"
+  }
+}
